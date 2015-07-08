@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 lasdldlasasdasdasdasd
 asdas
 asd
 ggg
+=======
+lasdldlasasdasd
+>>>>>>> 50b189c6b34351adc29cea93f6343867df17a608
+asd
+asd
+asd
