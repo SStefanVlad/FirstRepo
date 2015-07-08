@@ -1,0 +1,8 @@
+<<<<<<< Temporary merge branch 1
+lasdldlasasdasd
+=======
+lasdldlasasdasdasdasd
+asdas
+asd
+ggg
+>>>>>>> Temporary merge branch 2

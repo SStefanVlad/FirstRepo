@@ -6,9 +6,3 @@ ggg
 =======
 lasdldlasasdasd
 >>>>>>> 50b189c6b34351adc29cea93f6343867df17a608
-<<<<<<< HEAD
-asd
-asd
-asd
-=======
->>>>>>> a9950ac4906bda7a07535fc259d83e171794db10
